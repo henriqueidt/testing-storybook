@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Basics/Interface Elements/Buttons Default 1`] = `
+<button
+  className="button"
+  disabled={false}
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Basics/Interface Elements/Buttons Disabled 1`] = `
+<button
+  className="button"
+  disabled={true}
+  type="button"
+>
+  Disabled Button
+</button>
+`;
